@@ -531,7 +531,6 @@ MLOps                  ███░░░░░░░░░░░░░ 20%
 
 </div>
 
-> **Note:** To make the snake animation work on your own profile, you'll need to create a GitHub Action in your profile repository. I can help you set that up.
 
 ---
 
